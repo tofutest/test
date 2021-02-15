@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Here is a test link to a PDF](TestPDF.pdf){:target="_blank"}
 
 [Here is my resume](resume.md){:target="_blank"}
-```
+
 
 ![My 3d printer](3dPrinterjpg.jpg)
 
