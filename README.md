@@ -12,6 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Here is my resume](resume.md){:target="_blank"}
 ```
 
+![My 3d printer](3dPrinterjpg.jpg)
+
+
 ### Experience 1
 Talk about that here.   Can link to files.  Not sure how yet.
 
