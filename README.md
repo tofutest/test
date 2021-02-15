@@ -9,6 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Experience 1
 Talk about that here.   Can link to files.  Not sure how yet.
 
+Need a test link to a PDF.   Also, need a link to the resume -- or, shoudl the resume be in a PDF?
+
 ### Experience 2
 Talk about that here.   Can link to files.  Not sure how yet.
 
