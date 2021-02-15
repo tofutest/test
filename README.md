@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 [Here is a test link to a PDF](TestPDF.pdf){:target="_blank"}
+
+[Here is my resume.md](resume.md){:target="_blank"}
 ```
 
 ### Experience 1
